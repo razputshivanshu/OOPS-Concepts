@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shivanshuchauhan/Desktop/OOPS/output/Assignment_3'
+relocations:
+  - { offset: 0x1A, size: 0x8, addend: 0x0, symName: __ZN9RectangleC1Ev, symObjAddr: 0x0, symBinAddr: 0x100007C00, symSize: 0x38 }
+  - { offset: 0x3209, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x2512B, symBinAddr: 0x10000C050, symSize: 0x0 }
+  - { offset: 0x35EB, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x207, symBinAddr: 0x100007E9F, symSize: 0x0 }
+  - { offset: 0x3605, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x208, symBinAddr: 0x100007EA0, symSize: 0x0 }
+  - { offset: 0x361F, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x209, symBinAddr: 0x100007EA1, symSize: 0x0 }
+  - { offset: 0x362D, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_Assignment_3.cpp, symObjAddr: 0x1D0, symBinAddr: 0x100007DD0, symSize: 0x14 }
+  - { offset: 0x3647, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x194, symBinAddr: 0x100007D94, symSize: 0x3C }
+  - { offset: 0x364F, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_Assignment_3.cpp, symObjAddr: 0x1D0, symBinAddr: 0x100007DD0, symSize: 0x14 }
+  - { offset: 0x366C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x158, symBinAddr: 0x100007D58, symSize: 0x3C }
+  - { offset: 0x3674, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x194, symBinAddr: 0x100007D94, symSize: 0x3C }
+  - { offset: 0x36B0, size: 0x8, addend: 0x0, symName: __ZN9Rectangle14displayDetailsEv, symObjAddr: 0xA4, symBinAddr: 0x100007CA4, symSize: 0xB4 }
+  - { offset: 0x36B8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x158, symBinAddr: 0x100007D58, symSize: 0x3C }
+  - { offset: 0x36DF, size: 0x8, addend: 0x0, symName: __ZN9Rectangle13calculateAreaEv, symObjAddr: 0x80, symBinAddr: 0x100007C80, symSize: 0x24 }
+  - { offset: 0x36E7, size: 0x8, addend: 0x0, symName: __ZN9Rectangle14displayDetailsEv, symObjAddr: 0xA4, symBinAddr: 0x100007CA4, symSize: 0xB4 }
+  - { offset: 0x374B, size: 0x8, addend: 0x0, symName: __ZN9RectangleC1Edd, symObjAddr: 0x38, symBinAddr: 0x100007C38, symSize: 0x48 }
+  - { offset: 0x3753, size: 0x8, addend: 0x0, symName: __ZN9Rectangle13calculateAreaEv, symObjAddr: 0x80, symBinAddr: 0x100007C80, symSize: 0x24 }
+  - { offset: 0x37AA, size: 0x8, addend: 0x0, symName: __ZN9RectangleC1Ev, symObjAddr: 0x0, symBinAddr: 0x100007C00, symSize: 0x38 }
+  - { offset: 0x37B2, size: 0x8, addend: 0x0, symName: __ZN9RectangleC1Edd, symObjAddr: 0x38, symBinAddr: 0x100007C38, symSize: 0x48 }
+...
